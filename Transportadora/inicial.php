@@ -6,7 +6,7 @@
     <title>S&S transporte</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='css/Style.css'>
-    <script src="java.js" defer></script>
+    <script src="js/java.js" defer></script>
 </head>
 
 <!--Cabeçalho do site-->
