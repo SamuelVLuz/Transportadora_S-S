@@ -15,7 +15,7 @@
                 </svg>
             </button>
             <a href="#" class="active">Home</a>
-            <a href="#">Serviços</a>
+            <a href="#">Serviço</a>
             <a href="#">Sobre nós</a>
             <a href="#">Contato</a>
             <a href="#">Acesso</a>
